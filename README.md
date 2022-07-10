@@ -2,8 +2,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikisimi25&show_icons=true&theme=dracula)](https://github.com/mikisimi25/README.md)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikisimi25&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikisimi25&layout=compact&theme=dracula)](https://github.com/anuraghazra/mikisimi25/README.md)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mikisimi25)](https://github.com/mikisimi25/mikisimi25/README.md)
+¡
 
 <!--
 **mikisimi25/mikisimi25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
