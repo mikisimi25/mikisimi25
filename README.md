@@ -1,6 +1,5 @@
-## 💫 About Me:
-##🔭 I’m currently trying to find a developer job<br>🌱 I’m currently learning Algorithms and Data Structures
-##
+# 💫 About Me:
+[comment]: 🔭 I’m currently trying to find a developer job<br>🌱 I’m currently learning Algorithms and Data Structures
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maksym-ostapenko-kulieba-798228210) 
